@@ -1,0 +1,4 @@
+python-ansible-pygments source: file-without-copyright-information
+python-ansible-pygments source: no-debian-changes
+python-ansible-pygments source: source-contains-prebuilt-windows-binary
+python-ansible-pygments source: source-package-encodes-python-version

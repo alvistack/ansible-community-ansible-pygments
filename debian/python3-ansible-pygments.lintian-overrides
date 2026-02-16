@@ -1,0 +1,4 @@
+python3-ansible-pygments: copyright-without-copyright-notice
+python3-ansible-pygments: initial-upload-closes-no-bugs
+python3-ansible-pygments: no-manual-page
+python3-ansible-pygments: zero-byte-file-in-doc-directory
